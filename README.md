@@ -18,8 +18,8 @@ https://docs.python-guide.org/writing/structure/
 * **URL**: /status
 * **Method**: GET
 * Success Response:
-** Code: 200
-** Content: 
+* * Code: 200
+* * Content: 
 ```
 {
     "status": "ok",
@@ -30,8 +30,8 @@ https://docs.python-guide.org/writing/structure/
 }
 ```
 * Error Response:
-** Code: 500
-** Content: 
+* * Code: 500
+* * Content: 
 ```
 {
     "status": "error",
@@ -47,8 +47,8 @@ https://docs.python-guide.org/writing/structure/
 * **URL**: /clients
 * **Method**: GET
 * Success Response:
-** Code: 200
-** Content: 
+* * Code: 200
+* * Content: 
 ```
 {
     "clients": [
@@ -64,8 +64,8 @@ https://docs.python-guide.org/writing/structure/
 }
 ```
 * Error Response:
-** Code: 500
-** Content:
+* * Code: 500
+* * Content:
 ```
 {
     "error": "Cannot connect to clients"
