@@ -16,7 +16,7 @@
                 "env": {
                     "FAHCLIENTSTATS_CONFIGFILE": "./config/config.py"
                 }
-            }
+            },
 
             "group": "build",
             "presentation": {

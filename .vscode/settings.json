@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/chris/.local/share/virtualenvs/foldingathome-client-api-server-u0khGHu8/bin/python"
+    "python.pythonPath": "/Users/chris/.pyenv/shims/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
